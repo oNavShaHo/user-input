@@ -1,3 +1,5 @@
+to use npm pacakge - https://www.npmjs.com/package/code-user-input
+
 # User Input
 
 A utility for handling user input in Node.js.
