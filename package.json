@@ -1,0 +1,15 @@
+{
+  "name": "code-user-input",
+  "version": "1.0.1",
+  "description": "a utility for handling user input in Node.js",
+  "main": "lib/userInput.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["user input", "node", "utility","competetive coding","input","coding"],
+  "author": "Navdeep Shah",
+  "license": "ISC"
+}
